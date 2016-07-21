@@ -1,3 +1,5 @@
+#Written by Alex I. Ramirez @alexram1313
+#arcompware.com
 import re
 import wave
 import pyaudio
